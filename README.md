@@ -10,9 +10,10 @@
 [![Linkedin](https://img.shields.io/badge/-Linkedin-08C6F5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/morgan-mastrangelo-243ba0272/)
 
 <br />
+<br />
 
 # Introduction
-#### Software engineer with 7+ years of project experience in all stages of web design and development, as well as highly motivated to secure a job in an IT company where I can utilize my skills and knowledge in programming languages. I have a strong foundation in computer science principles and concepts of technology, experience in debugging applications using programming languages. I'm not only an experienced software engineer, but also a passionate full-stack engineer seeking to find the opportunity to work in a challenging environment that will encourage me to improve my necessary skills in order to be able to assist the company in achieving its mission, collaborating with team and project managers. In addition, I have a rich experience as a UX/UI designer, specializing in creating intuitive and user-centered designs that look smart as well as improve the overall experience. One of my favorites is to build out a wonderful web design that cannot be found anywhere.
+### <p>Software engineer with 7+ years of project experience in all stages of web design and development, as well as highly motivated to secure a job in an IT company where I can utilize my skills and knowledge in programming languages. I have a strong foundation in computer science principles and concepts of technology, experience in debugging applications using programming languages. I'm not only an experienced software engineer, but also a passionate full-stack engineer seeking to find the opportunity to work in a challenging environment that will encourage me to improve my necessary skills in order to be able to assist the company in achieving its mission, collaborating with team and project managers. In addition, I have a rich experience as a UX/UI designer, specializing in creating intuitive and user-centered designs that look smart as well as improve the overall experience. One of my favorites is to build out a wonderful web design that cannot be found anywhere.</p>
 <br />
 <br />
 
