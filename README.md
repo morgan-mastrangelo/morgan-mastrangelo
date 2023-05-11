@@ -22,4 +22,4 @@ As a highly-motivated senior front-end web developer with a passion for all stag
 
 ## Top Skills
 
-<img height="50" src="https://skillicons.dev/icons?i=react,vue,vite,angular,svelte,redux,next,nuxt,jquery,gatsby,js,ts,nodejs,php,laravel,django,ruby,mysql,mongodb,sqlite,rust,html,css,java,python,rust,go,bootstrap,materialui,tailwindcss,ae,ps,sass,svg">
+<img src="https://skillicons.dev/icons?i=react,vue,vite,angular,svelte,redux,next,nuxt,jquery,gatsby,js,ts,nodejs,php,laravel,django,ruby,mysql,mongodb,sqlite,rust,html,css,java,python,rust,go,bootstrap,materialui,tailwindcss,ae,ps,sass,svg">
