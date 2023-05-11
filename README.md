@@ -22,37 +22,4 @@ As a highly-motivated senior front-end web developer with a passion for all stag
 
 ## Top Skills
 
-<img height="50" style="display:inline" src="https://skillicons.dev/icons?i=react">
-<img height="50" style="display:inline" src="https://skillicons.dev/icons?i=vue">
-<img height="50" style="display:inline" src="https://skillicons.dev/icons?i=vite">
-<img height="50" style="display:inline" src="https://skillicons.dev/icons?i=angular">
-<img height="50" style="display:inline" src="https://skillicons.dev/icons?i=svelte">
-<img height="50" style="display:inline" src="https://skillicons.dev/icons?i=redux">
-<img height="50" style="display:inline" src="https://skillicons.dev/icons?i=next">
-<img height="50" src="https://skillicons.dev/icons?i=nuxt">
-<img height="50" src="https://skillicons.dev/icons?i=jquery">
-<img height="50" src="https://skillicons.dev/icons?i=gatsby">
-<img height="50" src="https://skillicons.dev/icons?i=js">
-<img height="50" src="https://skillicons.dev/icons?i=ts">
-<img height="50" src="https://skillicons.dev/icons?i=nodejs">
-<img height="50" src="https://skillicons.dev/icons?i=php">
-<img height="50" src="https://skillicons.dev/icons?i=laravel">
-<img height="50" src="https://skillicons.dev/icons?i=django">
-<img height="50" src="https://skillicons.dev/icons?i=ruby">
-<img height="50" src="https://skillicons.dev/icons?i=mysql">
-<img height="50" src="https://skillicons.dev/icons?i=mongodb">
-<img height="50" src="https://skillicons.dev/icons?i=sqlite">
-<img height="50" src="https://skillicons.dev/icons?i=rust">
-<img height="50" src="https://skillicons.dev/icons?i=html">
-<img height="50" src="https://skillicons.dev/icons?i=css">
-<img height="50" src="https://skillicons.dev/icons?i=java">
-<img height="50" src="https://skillicons.dev/icons?i=python">
-<img height="50" src="https://skillicons.dev/icons?i=rust">
-<img height="50" src="https://skillicons.dev/icons?i=go">
-<img height="50" src="https://skillicons.dev/icons?i=bootstrap">
-<img height="50" src="https://skillicons.dev/icons?i=materialui">
-<img height="50" src="https://skillicons.dev/icons?i=tailwindcss">
-<img height="50" src="https://skillicons.dev/icons?i=ae">
-<img height="50" src="https://skillicons.dev/icons?i=ps">
-<img height="50" src="https://skillicons.dev/icons?i=sass">
-<img height="50" src="https://skillicons.dev/icons?i=svg">
+<img height="50" src="https://skillicons.dev/icons?i=react,vue,vite,angular,svelte,redux,next,nuxt,jquery,gatsby,js,ts,nodejs,php,laravel,django,ruby,mysql,mongodb,sqlite,rust,html,css,java,python,rust,go,bootstrap,materialui,tailwindcss,ae,ps,sass,svg">
