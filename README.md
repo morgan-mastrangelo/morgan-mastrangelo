@@ -5,17 +5,53 @@
 ## 💻 I'm a software engineer. 💻
 #### Pronouns: he/him 
 
-[![StackOverflow](https://img.shields.io/badge/-StackOverflow-FFFFFF?style=flat-square&logo=StackOverflow)](https://stackoverflow.com/users/21692833/morgan-mastrangelo)
-[![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/morgan-mastrangelo)
+[![StackOverflow](https://img.shields.io/badge/-StackOverflow-4caf50?style=flat-square&logo=StackOverflow)](https://stackoverflow.com/users/21692833/morgan-mastrangelo)
+[![GitHub](https://img.shields.io/badge/-GitHub-454545?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/morgan-mastrangelo)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-08C6F5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/morgan-mastrangelo-243ba0272/)
+[![Discord](https://img.shields.io/badge/-Discord-red?style=flat-square&logo=Discord&logoColor=white)](https://discord.com/channels/1098706391377662076/1098706392099078145)
 
 <br />
 <br />
 
-# Introduction
-### <p>Software engineer with 7+ years of project experience in all stages of web design and development, as well as highly motivated to secure a job in an IT company where I can utilize my skills and knowledge in programming languages. I have a strong foundation in computer science principles and concepts of technology, experience in debugging applications using programming languages. I'm not only an experienced software engineer, but also a passionate full-stack engineer seeking to find the opportunity to work in a challenging environment that will encourage me to improve my necessary skills in order to be able to assist the company in achieving its mission, collaborating with team and project managers. In addition, I have a rich experience as a UX/UI designer, specializing in creating intuitive and user-centered designs that look smart as well as improve the overall experience. One of my favorites is to build out a wonderful web design that cannot be found anywhere.</p>
+## Introduction
+<p>
+As a highly-motivated senior front-end web developer with a passion for all stages of web design and development, excited to take on new challenges and utilize my skills and knowledge in programming languages to help the company achieve its goals with 7 years of project experience collaborate effectively with team members and project managers. What sets me apart, however, is my deep understanding of user experience (UX) and user interface (UI) design. As a specialist in creating intuitive and user-centered designs, I am able to provide a unique perspective that will improve the overall experience for your audience. Whether it's crafting a beautiful, one-of-a-kind web design or optimizing an existing interface, I am always eager to find new and innovative ways to elevate user engagement and take it by storm. With my combination of technical expertise and creative vision, I am confident that I would be a valuable asset to your team.
+</p>
 <br />
 <br />
 
-# Top Skills
-<img height="100" src="https://skillicons.dev/icons?i=python,java,javascript,typescript,react,vue,angular,nextjs,nuxtjs,laravel,mysql,mongodb,photoshop">
+## Top Skills
+<img height="50" src="https://skillicons.dev/icons?i=react">
+<img height="50" src="https://skillicons.dev/icons?i=vue">
+<img height="50" src="https://skillicons.dev/icons?i=vite">
+<img height="50" src="https://skillicons.dev/icons?i=angular">
+<img height="50" src="https://skillicons.dev/icons?i=svelte">
+<img height="50" src="https://skillicons.dev/icons?i=redux">
+<img height="50" src="https://skillicons.dev/icons?i=next">
+<img height="50" src="https://skillicons.dev/icons?i=nuxt">
+<img height="50" src="https://skillicons.dev/icons?i=jquery">
+<img height="50" src="https://skillicons.dev/icons?i=gatsby">
+<img height="50" src="https://skillicons.dev/icons?i=js">
+<img height="50" src="https://skillicons.dev/icons?i=ts">
+<img height="50" src="https://skillicons.dev/icons?i=nodejs">
+<img height="50" src="https://skillicons.dev/icons?i=php">
+<img height="50" src="https://skillicons.dev/icons?i=laravel">
+<img height="50" src="https://skillicons.dev/icons?i=django">
+<img height="50" src="https://skillicons.dev/icons?i=ruby">
+<img height="50" src="https://skillicons.dev/icons?i=mysql">
+<img height="50" src="https://skillicons.dev/icons?i=mongodb">
+<img height="50" src="https://skillicons.dev/icons?i=sqlite">
+<img height="50" src="https://skillicons.dev/icons?i=rust">
+<img height="50" src="https://skillicons.dev/icons?i=html">
+<img height="50" src="https://skillicons.dev/icons?i=css">
+<img height="50" src="https://skillicons.dev/icons?i=java">
+<img height="50" src="https://skillicons.dev/icons?i=python">
+<img height="50" src="https://skillicons.dev/icons?i=rust">
+<img height="50" src="https://skillicons.dev/icons?i=go">
+<img height="50" src="https://skillicons.dev/icons?i=bootstrap">
+<img height="50" src="https://skillicons.dev/icons?i=materialui">
+<img height="50" src="https://skillicons.dev/icons?i=tailwindcss">
+<img height="50" src="https://skillicons.dev/icons?i=ae">
+<img height="50" src="https://skillicons.dev/icons?i=ps">
+<img height="50" src="https://skillicons.dev/icons?i=sass">
+<img height="50" src="https://skillicons.dev/icons?i=svg">
