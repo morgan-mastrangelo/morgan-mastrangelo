@@ -5,9 +5,8 @@
 ## 💻 I'm a Senior Front End Developer. 💻
 #### Pronouns: he/him 
 
-[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/morgan-mastrangelo-243ba0272/)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/morgan-mastrangelo-171227277/)
 [![GitHub](https://img.shields.io/badge/-GitHub-454545?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/morgan-mastrangelo)
-[![StackOverflow](https://img.shields.io/badge/-StackOverflow-indigo?style=flat-square&logo=StackOverflow)](https://stackoverflow.com/users/21692833/morgan-mastrangelo)
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-darkgreen?style=flat-square&logo=Hackerrank&logoColor=white)](https://www.hackerrank.com/mmastrangelo1120)
 [![Discord](https://img.shields.io/badge/-Discord-red?style=flat-square&logo=Discord&logoColor=white)](https://discord.com/channels/1098706391377662076/1098706392099078145)
 
