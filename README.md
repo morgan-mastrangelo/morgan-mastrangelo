@@ -2,12 +2,13 @@
 
 ### Nice to meet you on GitHub. 😃
 # My name is Morgan Mastrangelo.
-## 💻 I'm a software engineer. 💻
+## 💻 I'm a Senior Front End Developer. 💻
 #### Pronouns: he/him 
 
-[![StackOverflow](https://img.shields.io/badge/-StackOverflow-4caf50?style=flat-square&logo=StackOverflow)](https://stackoverflow.com/users/21692833/morgan-mastrangelo)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/morgan-mastrangelo-243ba0272/)
 [![GitHub](https://img.shields.io/badge/-GitHub-454545?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/morgan-mastrangelo)
-[![Linkedin](https://img.shields.io/badge/-Linkedin-08C6F5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/morgan-mastrangelo-243ba0272/)
+[![StackOverflow](https://img.shields.io/badge/-StackOverflow-indigo?style=flat-square&logo=StackOverflow)](https://stackoverflow.com/users/21692833/morgan-mastrangelo)
+[![HackerRank](https://img.shields.io/badge/-Hackerrank-darkgreen?style=flat-square&logo=Hackerrank&logoColor=white)](https://www.hackerrank.com/mmastrangelo1120)
 [![Discord](https://img.shields.io/badge/-Discord-red?style=flat-square&logo=Discord&logoColor=white)](https://discord.com/channels/1098706391377662076/1098706392099078145)
 
 <br />
@@ -15,11 +16,11 @@
 
 ## Introduction
 <p>
-As a highly-motivated senior front-end web developer with a passion for all stages of web design and development, excited to take on new challenges and utilize my skills and knowledge in programming languages to help the company achieve its goals with 7 years of project experience collaborate effectively with team members and project managers. What sets me apart, however, is my deep understanding of user experience (UX) and user interface (UI) design. As a specialist in creating intuitive and user-centered designs, I am able to provide a unique perspective that will improve the overall experience for your audience. Whether it's crafting a beautiful, one-of-a-kind web design or optimizing an existing interface, I am always eager to find new and innovative ways to elevate user engagement and take it by storm. With my combination of technical expertise and creative vision, I am confident that I would be a valuable asset to your team.
+As a dynamic and highly-motivated senior front-end web developer, I brought my 7 years of experience and tackled every challenge that came in my way. My passion for programming languages and cutting-edge technology is matched only by my dedication to creating exceptional user experiences. With a sharp perspective for design and a deep understanding of user behavior, I am uniquely equipped to develop intuitive and engaging interfaces that will keep your audience coming back for more. Whether it is developing innovative web applications or optimizing existing ones, I am always eager to push the boundaries and deliver results that exceed expectations. As a collaborative team player, I thrive in fast-paced environments and excel at communicating complex technical concepts to stakeholders at all levels. With my proven track record of success and unwavering commitment to excellence, I am confident that I can make a significant contribution to your organization and help you achieve your goals. The summary will be proven with my relevant skills. Let's team up, and take the industry by storm!
 </p>
 <br />
 <br />
 
-## Top Skills
+## Skills
 
-<img src="https://skillicons.dev/icons?i=react,vue,vite,angular,svelte,redux,next,nuxt,jquery,gatsby,js,ts,nodejs,php,laravel,django,ruby,mysql,mongodb,sqlite,rust,html,css,java,python,rust,go,bootstrap,materialui,tailwindcss,ae,ps,sass,svg">
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,vite,nuxtjs,angular,svelte,redux,jquery,gatsby,graphql,wordpress,aws,regex,flutter,remix,threejs,electron,webflow,nodejs,expressjs,nestjs,laravel,ruby,django,spring,flask,mysql,mongodb,postgres,sqlite,prisma,dotnet,azure,redis,apollo,c,cs,cpp,html,css,js,ts,py,php,java,swift,matlab,rust,go,kotlin,scala,perl,bootstrap,materialui,sass,svg,tailwind,windicss,ae,ps,figma,unity">
