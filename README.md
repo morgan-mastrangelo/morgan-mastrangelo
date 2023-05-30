@@ -22,4 +22,4 @@ As a dynamic and highly-motivated senior front-end web developer, I brought my 7
 
 ## Skills
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,vite,nuxtjs,angular,svelte,redux,jquery,gatsby,graphql,wordpress,aws,regex,flutter,remix,threejs,electron,webflow,nodejs,expressjs,nestjs,laravel,ruby,django,spring,flask,mysql,mongodb,postgres,sqlite,prisma,dotnet,azure,redis,apollo,c,cs,cpp,html,css,js,ts,py,php,java,swift,matlab,rust,go,kotlin,scala,perl,bootstrap,materialui,sass,svg,tailwind,windicss,ae,ps,figma,unity">
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,vite,nuxtjs,angular,svelte,redux,jquery,gatsby,graphql,wordpress,aws,regex,flutter,remix,threejs,electron,nodejs,expressjs,nestjs,laravel,ruby,django,spring,flask,mysql,mongodb,postgres,sqlite,prisma,dotnet,azure,redis,apollo,c,cs,cpp,html,css,js,ts,py,php,java,swift,matlab,rust,kotlin,bootstrap,materialui,sass,svg,tailwind,ps,figma">
